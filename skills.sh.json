@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Hosting",
+      "description": "Deploy and manage applications on x402-hosting.com.",
+      "skills": ["x402-hosting"]
+    }
+  ]
+}
